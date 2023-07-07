@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Framework and Hibernate**
 
-- 👯 I’m looking to collaborate on *******
-
-- 👨‍💻 All of my projects are available at [My Github](My Github)
+- 👨‍💻 All of my projects are available at [My Github]
 
 - 💬 Ask me about **Spring,Spring Boot,MySQL,Spring MVC**
 
